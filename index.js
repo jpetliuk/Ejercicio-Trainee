@@ -1,6 +1,6 @@
 'use strict'
 
-const resolvers = require('./resolvers.js')
+const resolvers = require('./lib/resolvers.js')
 
 resolvers.listaVehiculos()
 resolvers.vehiculoMasCaro()

@@ -1,0 +1,12 @@
+{
+  "name": "Consecionaria",
+  "version": "1.0.0",
+  "description": "Consecionario de autos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremias Petliuk <jeremias.petliuk@gmail.com>",
+  "license": "MIT"
+}

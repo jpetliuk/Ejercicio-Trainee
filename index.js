@@ -2,6 +2,7 @@
 
 const resolvers = require('./lib/resolvers.js')
 
+resolvers.ordenarPorPrecio()
 resolvers.listaVehiculos()
 resolvers.vehiculoMasCaro()
 resolvers.vehiculoMasBarato()
